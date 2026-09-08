@@ -1,0 +1,4 @@
+Risk Category,Number_of_Claims,Total_Exposure,Average_Claim_Value,Average_Fraud_Risk,Exposure Share (%)
+High Risk,54,3454950,63980.56,61.85,31.34
+Low Risk,42,988130,23526.9,18.33,8.96
+Medium Risk,104,6579820,63267.5,32.26,59.69

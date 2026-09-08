@@ -1,0 +1,201 @@
+Claim Index,Actual Fraud,Predicted Fraud,Fraud Probability,Fraud Risk Score,Risk Category,Claim Amount,Investigation Priority Score,Investigation Priority Tier,Recommended Action,Actual Fraud Status,Predicted Fraud Status,Risk Rank
+625,0,1,0.6751,67.51,High Risk,85250,55.56,High Priority,Manual Review,Legitimate,Flagged,1
+251,1,1,0.7069,70.69,High Risk,80850,55.17,High Priority,Manual Review,Fraud,Flagged,2
+540,0,1,0.6801,68.01,High Risk,83160,54.6,High Priority,Manual Review,Legitimate,Flagged,3
+755,0,1,0.6178,61.78,High Risk,87900,52.43,High Priority,Manual Review,Legitimate,Flagged,4
+914,0,1,0.7294,72.94,High Risk,72800,51.25,High Priority,Manual Review,Legitimate,Flagged,5
+915,1,1,0.7131,71.31,High Risk,71190,49.0,High Priority,Manual Review,Fraud,Flagged,6
+30,0,1,0.6452,64.52,High Risk,75600,47.08,High Priority,Manual Review,Legitimate,Flagged,7
+817,1,1,0.6424,64.24,High Risk,74800,46.38,High Priority,Manual Review,Fraud,Flagged,8
+166,1,1,0.664,66.4,High Risk,71280,45.68,High Priority,Manual Review,Fraud,Flagged,9
+927,1,1,0.6283,62.83,High Risk,74690,45.3,High Priority,Manual Review,Fraud,Flagged,10
+742,1,1,0.5538,55.38,High Risk,84500,45.18,High Priority,Manual Review,Fraud,Flagged,11
+669,0,1,0.6934,69.34,High Risk,66240,44.33,High Priority,Manual Review,Legitimate,Flagged,12
+587,1,1,0.6299,62.99,High Risk,72400,44.02,High Priority,Manual Review,Fraud,Flagged,13
+710,1,1,0.6466,64.66,High Risk,70200,43.81,High Priority,Manual Review,Fraud,Flagged,14
+68,0,1,0.6624,66.24,High Risk,68530,43.81,High Priority,Manual Review,Legitimate,Flagged,14
+731,0,1,0.6798,67.98,High Risk,66660,43.73,High Priority,Manual Review,Legitimate,Flagged,15
+106,1,1,0.554,55.4,High Risk,79800,42.68,High Priority,Manual Review,Fraud,Flagged,16
+349,1,1,0.5957,59.57,High Risk,74200,42.67,High Priority,Manual Review,Fraud,Flagged,17
+494,1,1,0.6854,68.54,High Risk,64100,42.4,High Priority,Manual Review,Fraud,Flagged,18
+128,1,1,0.6867,68.67,High Risk,63840,42.31,High Priority,Manual Review,Fraud,Flagged,19
+386,0,1,0.6529,65.29,High Risk,66840,42.12,High Priority,Manual Review,Legitimate,Flagged,20
+245,1,1,0.5767,57.67,High Risk,75400,41.97,High Priority,Manual Review,Fraud,Flagged,21
+458,0,0,0.4148,41.48,Medium Risk,103560,41.48,High Priority,Additional Verification,Legitimate,Not Flagged,22
+288,1,1,0.6399,63.99,High Risk,66780,41.24,High Priority,Manual Review,Fraud,Flagged,23
+888,0,1,0.6922,69.22,High Risk,60600,40.48,High Priority,Manual Review,Legitimate,Flagged,24
+56,0,1,0.743,74.3,High Risk,56430,40.45,High Priority,Manual Review,Legitimate,Flagged,25
+880,1,1,0.6115,61.15,High Risk,67300,39.72,High Priority,Manual Review,Fraud,Flagged,26
+60,1,1,0.5871,58.71,High Risk,69480,39.37,High Priority,Manual Review,Fraud,Flagged,27
+262,1,1,0.5724,57.24,High Risk,70600,39.0,High Priority,Manual Review,Fraud,Flagged,28
+661,0,1,0.6697,66.97,High Risk,59500,38.45,High Priority,Manual Review,Legitimate,Flagged,29
+376,0,1,0.5917,59.17,High Risk,66200,37.8,High Priority,Manual Review,Legitimate,Flagged,30
+261,1,1,0.6589,65.89,High Risk,59000,37.51,High Priority,Manual Review,Fraud,Flagged,31
+183,1,0,0.4731,47.31,Medium Risk,81840,37.38,High Priority,Additional Verification,Fraud,Not Flagged,32
+938,1,1,0.559,55.9,High Risk,68240,36.82,High Priority,Manual Review,Fraud,Flagged,33
+853,0,0,0.4541,45.41,Medium Risk,83490,36.6,High Priority,Additional Verification,Legitimate,Not Flagged,34
+498,1,1,0.5897,58.97,High Risk,63580,36.18,High Priority,Manual Review,Fraud,Flagged,35
+283,1,1,0.6198,61.98,High Risk,59900,35.82,High Priority,Manual Review,Fraud,Flagged,36
+919,1,0,0.4863,48.63,Medium Risk,76010,35.68,High Priority,Additional Verification,Fraud,Not Flagged,37
+561,1,0,0.4394,43.94,Medium Risk,84100,35.68,High Priority,Additional Verification,Fraud,Not Flagged,37
+348,0,1,0.5398,53.98,High Risk,67650,35.24,High Priority,Manual Review,Legitimate,Flagged,38
+278,1,1,0.5495,54.95,High Risk,64350,34.12,High Priority,Manual Review,Fraud,Flagged,39
+977,1,1,0.6536,65.36,High Risk,53280,33.6,High Priority,Manual Review,Fraud,Flagged,40
+466,0,1,0.5859,58.59,High Risk,58410,33.02,High Priority,Manual Review,Legitimate,Flagged,41
+113,0,1,0.577,57.7,High Risk,57720,32.13,High Priority,Manual Review,Legitimate,Flagged,42
+213,1,1,0.618,61.8,High Risk,53460,31.87,High Priority,Manual Review,Fraud,Flagged,43
+895,1,1,0.5935,59.35,High Risk,55200,31.61,High Priority,Manual Review,Fraud,Flagged,44
+640,0,0,0.3616,36.16,Medium Risk,89650,31.3,High Priority,Additional Verification,Legitimate,Not Flagged,45
+301,0,0,0.3423,34.23,Medium Risk,93730,30.98,High Priority,Additional Verification,Legitimate,Not Flagged,46
+748,0,1,0.6444,64.44,High Risk,49400,30.71,High Priority,Manual Review,Legitimate,Flagged,47
+514,0,1,0.5234,52.34,High Risk,60600,30.61,High Priority,Manual Review,Legitimate,Flagged,48
+181,0,0,0.3111,31.11,Medium Risk,100800,30.28,High Priority,Additional Verification,Legitimate,Not Flagged,49
+535,1,1,0.5986,59.86,High Risk,52400,30.26,High Priority,Manual Review,Fraud,Flagged,50
+15,1,0,0.4962,49.62,Medium Risk,63120,30.22,High Priority,Additional Verification,Fraud,Not Flagged,51
+898,0,1,0.5267,52.67,High Risk,59200,30.09,High Priority,Manual Review,Legitimate,Flagged,52
+150,0,0,0.3755,37.55,Medium Risk,82720,29.99,Medium Priority,Additional Verification,Legitimate,Not Flagged,53
+934,0,1,0.5891,58.91,High Risk,52380,29.77,Medium Priority,Manual Review,Legitimate,Flagged,54
+980,0,0,0.3635,36.35,Medium Risk,82170,28.83,Medium Priority,Additional Verification,Legitimate,Not Flagged,55
+324,1,1,0.5914,59.14,High Risk,50400,28.75,Medium Priority,Manual Review,Fraud,Flagged,56
+878,1,1,0.5471,54.71,High Risk,54400,28.71,Medium Priority,Manual Review,Fraud,Flagged,57
+649,1,0,0.4971,49.71,Medium Risk,59400,28.49,Medium Priority,Additional Verification,Fraud,Not Flagged,58
+19,0,0,0.4877,48.77,Medium Risk,60400,28.42,Medium Priority,Additional Verification,Legitimate,Not Flagged,59
+521,0,0,0.3315,33.15,Medium Risk,88110,28.2,Medium Priority,Additional Verification,Legitimate,Not Flagged,60
+851,1,1,0.6125,61.25,High Risk,46800,27.65,Medium Priority,Manual Review,Fraud,Flagged,61
+421,0,0,0.3458,34.58,Medium Risk,81120,27.08,Medium Priority,Additional Verification,Legitimate,Not Flagged,62
+973,1,1,0.5691,56.91,High Risk,49100,26.95,Medium Priority,Manual Review,Fraud,Flagged,63
+363,1,1,0.6375,63.75,High Risk,42700,26.25,Medium Priority,Manual Review,Fraud,Flagged,64
+151,0,1,0.5655,56.55,High Risk,48060,26.21,Medium Priority,Manual Review,Legitimate,Flagged,65
+978,0,0,0.3177,31.77,Medium Risk,84590,25.94,Medium Priority,Additional Verification,Legitimate,Not Flagged,66
+320,0,0,0.3309,33.09,Medium Risk,80520,25.72,Medium Priority,Additional Verification,Legitimate,Not Flagged,67
+758,0,0,0.3218,32.18,Medium Risk,82060,25.49,Medium Priority,Additional Verification,Legitimate,Not Flagged,68
+546,0,0,0.3398,33.98,Medium Risk,75460,24.75,Medium Priority,Additional Verification,Legitimate,Not Flagged,69
+528,0,0,0.334,33.4,Medium Risk,75960,24.49,Medium Priority,Additional Verification,Legitimate,Not Flagged,70
+863,0,0,0.3382,33.82,Medium Risk,74200,24.22,Medium Priority,Additional Verification,Legitimate,Not Flagged,71
+611,0,0,0.3382,33.82,Medium Risk,74030,24.17,Medium Priority,Additional Verification,Legitimate,Not Flagged,72
+729,1,0,0.494,49.4,Medium Risk,50300,23.97,Medium Priority,Additional Verification,Fraud,Not Flagged,73
+982,1,0,0.4772,47.72,Medium Risk,51900,23.89,Medium Priority,Additional Verification,Fraud,Not Flagged,74
+975,0,0,0.3684,36.84,Medium Risk,66550,23.66,Medium Priority,Additional Verification,Legitimate,Not Flagged,75
+286,0,0,0.3804,38.04,Medium Risk,63910,23.46,Medium Priority,Additional Verification,Legitimate,Not Flagged,76
+575,0,0,0.3416,34.16,Medium Risk,71100,23.44,Medium Priority,Additional Verification,Legitimate,Not Flagged,77
+937,0,0,0.337,33.7,Medium Risk,71800,23.35,Medium Priority,Additional Verification,Legitimate,Not Flagged,78
+90,0,0,0.3511,35.11,Medium Risk,66950,22.69,Medium Priority,Additional Verification,Legitimate,Not Flagged,79
+139,0,0,0.3158,31.58,Medium Risk,73560,22.42,Medium Priority,Additional Verification,Legitimate,Not Flagged,80
+402,1,1,0.5146,51.46,High Risk,44880,22.27,Medium Priority,Manual Review,Fraud,Flagged,81
+138,0,0,0.2983,29.83,Medium Risk,76120,21.92,Medium Priority,Additional Verification,Legitimate,Not Flagged,82
+100,0,0,0.2845,28.45,Medium Risk,79300,21.78,Medium Priority,Additional Verification,Legitimate,Not Flagged,83
+523,0,0,0.3808,38.08,Medium Risk,58960,21.66,Medium Priority,Additional Verification,Legitimate,Not Flagged,84
+267,0,0,0.2862,28.62,Medium Risk,78300,21.63,Medium Priority,Additional Verification,Legitimate,Not Flagged,85
+50,0,0,0.2732,27.32,Medium Risk,81800,21.57,Medium Priority,Additional Verification,Legitimate,Not Flagged,86
+350,0,0,0.3434,34.34,Medium Risk,64900,21.51,Medium Priority,Additional Verification,Legitimate,Not Flagged,87
+130,0,0,0.259,25.9,Medium Risk,84720,21.18,Medium Priority,Additional Verification,Legitimate,Not Flagged,88
+997,0,0,0.3241,32.41,Medium Risk,67500,21.11,Medium Priority,Additional Verification,Legitimate,Not Flagged,89
+279,0,0,0.3068,30.68,Medium Risk,70900,21.0,Medium Priority,Additional Verification,Legitimate,Not Flagged,90
+944,0,0,0.3054,30.54,Medium Risk,70830,20.88,Medium Priority,Additional Verification,Legitimate,Not Flagged,91
+615,0,0,0.2766,27.66,Medium Risk,77770,20.77,Medium Priority,Additional Verification,Legitimate,Not Flagged,92
+134,0,0,0.2752,27.52,Medium Risk,78120,20.75,Medium Priority,Additional Verification,Legitimate,Not Flagged,93
+120,0,0,0.3062,30.62,Medium Risk,69300,20.48,Medium Priority,Additional Verification,Legitimate,Not Flagged,94
+819,0,0,0.3409,34.09,Medium Risk,61490,20.23,Medium Priority,Additional Verification,Legitimate,Not Flagged,95
+651,0,0,0.2696,26.96,Medium Risk,77700,20.22,Medium Priority,Additional Verification,Legitimate,Not Flagged,96
+904,0,0,0.2743,27.43,Medium Risk,75690,20.04,Medium Priority,Additional Verification,Legitimate,Not Flagged,97
+694,0,0,0.3593,35.93,Medium Risk,57000,19.76,Medium Priority,Additional Verification,Legitimate,Not Flagged,98
+993,0,0,0.3397,33.97,Medium Risk,60200,19.73,Medium Priority,Additional Verification,Legitimate,Not Flagged,99
+704,1,0,0.4873,48.73,Medium Risk,41580,19.54,Medium Priority,Additional Verification,Fraud,Not Flagged,100
+499,0,0,0.2737,27.37,Medium Risk,73370,19.38,Medium Priority,Additional Verification,Legitimate,Not Flagged,101
+772,0,0,0.3131,31.31,Medium Risk,63300,19.13,Medium Priority,Additional Verification,Legitimate,Not Flagged,102
+232,0,0,0.2851,28.51,Medium Risk,69100,19.01,Medium Priority,Additional Verification,Legitimate,Not Flagged,103
+886,0,0,0.3174,31.74,Medium Risk,61740,18.91,Medium Priority,Additional Verification,Legitimate,Not Flagged,104
+861,0,0,0.2351,23.51,Low Risk,82400,18.7,Medium Priority,Auto Process,Legitimate,Not Flagged,105
+334,0,0,0.3597,35.97,Medium Risk,53440,18.54,Medium Priority,Additional Verification,Legitimate,Not Flagged,106
+97,1,0,0.2929,29.29,Medium Risk,64890,18.34,Medium Priority,Additional Verification,Fraud,Not Flagged,107
+399,0,0,0.2467,24.67,Low Risk,76920,18.32,Medium Priority,Auto Process,Legitimate,Not Flagged,108
+986,1,0,0.2456,24.56,Low Risk,77000,18.26,Medium Priority,Auto Process,Fraud,Not Flagged,109
+660,0,0,0.3011,30.11,Medium Risk,62800,18.25,Medium Priority,Additional Verification,Legitimate,Not Flagged,110
+429,0,0,0.3384,33.84,Medium Risk,55700,18.19,Medium Priority,Additional Verification,Legitimate,Not Flagged,111
+337,0,0,0.2674,26.74,Medium Risk,70290,18.14,Medium Priority,Additional Verification,Legitimate,Not Flagged,112
+534,0,0,0.2983,29.83,Medium Risk,62590,18.02,Medium Priority,Additional Verification,Legitimate,Not Flagged,113
+305,1,1,0.5073,50.73,High Risk,36720,17.96,Medium Priority,Manual Review,Fraud,Flagged,114
+335,0,0,0.2813,28.13,Medium Risk,65250,17.71,Medium Priority,Additional Verification,Legitimate,Not Flagged,115
+658,0,0,0.3,30.0,Medium Risk,60210,17.43,Medium Priority,Additional Verification,Legitimate,Not Flagged,116
+264,0,0,0.3117,31.17,Medium Risk,57640,17.34,Medium Priority,Additional Verification,Legitimate,Not Flagged,117
+468,0,0,0.3093,30.93,Medium Risk,57600,17.19,Medium Priority,Additional Verification,Legitimate,Not Flagged,118
+794,0,0,0.3166,31.66,Medium Risk,56160,17.16,Medium Priority,Additional Verification,Legitimate,Not Flagged,119
+192,0,0,0.3192,31.92,Medium Risk,55500,17.09,Medium Priority,Additional Verification,Legitimate,Not Flagged,120
+87,0,0,0.2742,27.42,Medium Risk,64240,17.0,Medium Priority,Additional Verification,Legitimate,Not Flagged,121
+381,0,0,0.2782,27.82,Medium Risk,62920,16.89,Medium Priority,Additional Verification,Legitimate,Not Flagged,122
+764,0,0,0.2477,24.77,Low Risk,70290,16.8,Medium Priority,Auto Process,Legitimate,Not Flagged,123
+228,0,0,0.2922,29.22,Medium Risk,59040,16.65,Medium Priority,Additional Verification,Legitimate,Not Flagged,124
+988,0,0,0.2813,28.13,Medium Risk,60700,16.48,Medium Priority,Additional Verification,Legitimate,Not Flagged,125
+512,0,0,0.2874,28.74,Medium Risk,58800,16.31,Medium Priority,Additional Verification,Legitimate,Not Flagged,126
+461,0,0,0.2812,28.12,Medium Risk,59520,16.15,Medium Priority,Additional Verification,Legitimate,Not Flagged,127
+862,0,0,0.3044,30.44,Medium Risk,54240,15.93,Medium Priority,Additional Verification,Legitimate,Not Flagged,128
+852,0,0,0.2912,29.12,Medium Risk,56320,15.82,Medium Priority,Additional Verification,Legitimate,Not Flagged,129
+171,1,0,0.3041,30.41,Medium Risk,53600,15.73,Medium Priority,Additional Verification,Fraud,Not Flagged,130
+219,0,0,0.2669,26.69,Medium Risk,60190,15.5,Medium Priority,Additional Verification,Legitimate,Not Flagged,131
+431,0,0,0.2904,29.04,Medium Risk,54340,15.22,Medium Priority,Additional Verification,Legitimate,Not Flagged,132
+42,0,0,0.3055,30.55,Medium Risk,51660,15.22,Medium Priority,Additional Verification,Legitimate,Not Flagged,132
+632,0,0,0.2909,29.09,Medium Risk,53800,15.1,Medium Priority,Additional Verification,Legitimate,Not Flagged,133
+368,1,0,0.3176,31.76,Medium Risk,48950,15.0,Medium Priority,Additional Verification,Fraud,Not Flagged,134
+450,0,0,0.2769,27.69,Medium Risk,56070,14.98,Medium Priority,Additional Verification,Legitimate,Not Flagged,135
+294,1,0,0.2822,28.22,Medium Risk,53400,14.54,Medium Priority,Additional Verification,Fraud,Not Flagged,136
+737,0,0,0.2847,28.47,Medium Risk,52800,14.5,Medium Priority,Additional Verification,Legitimate,Not Flagged,137
+756,0,0,0.281,28.1,Medium Risk,53400,14.48,Medium Priority,Additional Verification,Legitimate,Not Flagged,138
+979,0,0,0.2726,27.26,Medium Risk,54560,14.35,Medium Priority,Additional Verification,Legitimate,Not Flagged,139
+154,1,0,0.2703,27.03,Medium Risk,54240,14.14,Medium Priority,Additional Verification,Fraud,Not Flagged,140
+859,0,0,0.2994,29.94,Medium Risk,48950,14.14,Medium Priority,Additional Verification,Legitimate,Not Flagged,140
+751,0,0,0.2212,22.12,Low Risk,63900,13.64,Medium Priority,Auto Process,Legitimate,Not Flagged,141
+506,0,0,0.2642,26.42,Medium Risk,53370,13.6,Medium Priority,Additional Verification,Legitimate,Not Flagged,142
+610,0,0,0.2534,25.34,Medium Risk,54890,13.42,Medium Priority,Additional Verification,Legitimate,Not Flagged,143
+222,0,0,0.2825,28.25,Medium Risk,49060,13.37,Medium Priority,Additional Verification,Legitimate,Not Flagged,144
+757,0,0,0.264,26.4,Medium Risk,52030,13.25,Medium Priority,Additional Verification,Legitimate,Not Flagged,145
+854,0,0,0.2354,23.54,Low Risk,57900,13.15,Medium Priority,Auto Process,Legitimate,Not Flagged,146
+20,0,0,0.285,28.5,Medium Risk,47160,12.96,Medium Priority,Additional Verification,Legitimate,Not Flagged,147
+336,0,0,0.2999,29.99,Medium Risk,44280,12.81,Medium Priority,Additional Verification,Legitimate,Not Flagged,148
+75,0,0,0.2569,25.69,Medium Risk,51210,12.69,Medium Priority,Additional Verification,Legitimate,Not Flagged,149
+673,0,0,0.3861,38.61,Medium Risk,33480,12.46,Medium Priority,Additional Verification,Legitimate,Not Flagged,150
+618,0,0,0.2851,28.51,Medium Risk,45270,12.45,Medium Priority,Additional Verification,Legitimate,Not Flagged,151
+172,0,0,0.2861,28.61,Medium Risk,44910,12.39,Medium Priority,Additional Verification,Legitimate,Not Flagged,152
+115,1,0,0.2663,26.63,Medium Risk,47700,12.25,Medium Priority,Additional Verification,Fraud,Not Flagged,153
+377,0,0,0.2759,27.59,Medium Risk,45500,12.11,Medium Priority,Additional Verification,Legitimate,Not Flagged,154
+280,0,0,0.2618,26.18,Medium Risk,46560,11.76,Medium Priority,Additional Verification,Legitimate,Not Flagged,155
+933,0,0,0.2467,24.67,Low Risk,48780,11.61,Medium Priority,Auto Process,Legitimate,Not Flagged,156
+821,0,0,0.2517,25.17,Medium Risk,45100,10.95,Medium Priority,Additional Verification,Legitimate,Not Flagged,157
+408,0,0,0.2591,25.91,Medium Risk,43230,10.8,Medium Priority,Additional Verification,Legitimate,Not Flagged,158
+563,0,0,0.2522,25.22,Medium Risk,44240,10.76,Medium Priority,Additional Verification,Legitimate,Not Flagged,159
+759,0,0,0.2289,22.89,Low Risk,48360,10.68,Medium Priority,Auto Process,Legitimate,Not Flagged,160
+760,0,0,0.2112,21.12,Low Risk,52290,10.65,Medium Priority,Auto Process,Legitimate,Not Flagged,161
+617,0,0,0.2518,25.18,Medium Risk,40600,9.86,Low Priority,Additional Verification,Legitimate,Not Flagged,162
+124,0,0,0.2313,23.13,Low Risk,42000,9.37,Low Priority,Auto Process,Legitimate,Not Flagged,163
+639,0,0,0.2311,23.11,Low Risk,41520,9.25,Low Priority,Auto Process,Legitimate,Not Flagged,164
+771,0,0,0.2324,23.24,Low Risk,37800,8.47,Low Priority,Auto Process,Legitimate,Not Flagged,165
+212,0,0,0.226,22.6,Low Risk,34320,7.48,Low Priority,Auto Process,Legitimate,Not Flagged,166
+679,0,0,0.1925,19.25,Low Risk,32480,6.02,Low Priority,Auto Process,Legitimate,Not Flagged,167
+221,0,0,0.1981,19.81,Low Risk,28100,5.36,Low Priority,Auto Process,Legitimate,Not Flagged,168
+32,0,0,0.1831,18.31,Low Risk,29790,5.25,Low Priority,Auto Process,Legitimate,Not Flagged,169
+8,0,0,0.163,16.3,Low Risk,27700,4.35,Low Priority,Auto Process,Legitimate,Not Flagged,170
+552,1,0,0.3908,39.08,Medium Risk,4620,1.71,Low Priority,Additional Verification,Fraud,Not Flagged,171
+48,0,0,0.207,20.7,Low Risk,7290,1.44,Low Priority,Auto Process,Legitimate,Not Flagged,172
+82,0,0,0.1909,19.09,Low Risk,7500,1.37,Low Priority,Auto Process,Legitimate,Not Flagged,173
+142,0,0,0.1402,14.02,Low Risk,8190,1.1,Low Priority,Auto Process,Legitimate,Not Flagged,174
+750,0,0,0.1382,13.82,Low Risk,8030,1.06,Low Priority,Auto Process,Legitimate,Not Flagged,175
+179,0,0,0.2244,22.44,Low Risk,4950,1.05,Low Priority,Auto Process,Legitimate,Not Flagged,176
+908,0,0,0.2004,20.04,Low Risk,5500,1.05,Low Priority,Auto Process,Legitimate,Not Flagged,176
+525,0,0,0.1524,15.24,Low Risk,6890,1.0,Low Priority,Auto Process,Legitimate,Not Flagged,177
+51,0,0,0.1442,14.42,Low Risk,7260,1.0,Low Priority,Auto Process,Legitimate,Not Flagged,177
+637,0,0,0.1411,14.11,Low Risk,7370,0.99,Low Priority,Auto Process,Legitimate,Not Flagged,178
+585,0,0,0.1965,19.65,Low Risk,5100,0.95,Low Priority,Auto Process,Legitimate,Not Flagged,179
+300,0,0,0.1236,12.36,Low Risk,7680,0.91,Low Priority,Auto Process,Legitimate,Not Flagged,180
+187,0,0,0.1722,17.22,Low Risk,5500,0.9,Low Priority,Auto Process,Legitimate,Not Flagged,181
+298,0,0,0.1509,15.09,Low Risk,5940,0.85,Low Priority,Auto Process,Legitimate,Not Flagged,182
+4,0,0,0.1359,13.59,Low Risk,6500,0.84,Low Priority,Auto Process,Legitimate,Not Flagged,183
+556,0,0,0.1702,17.02,Low Risk,4950,0.8,Low Priority,Auto Process,Legitimate,Not Flagged,184
+675,0,0,0.1734,17.34,Low Risk,4200,0.69,Low Priority,Auto Process,Legitimate,Not Flagged,185
+804,0,0,0.145,14.5,Low Risk,4950,0.68,Low Priority,Auto Process,Legitimate,Not Flagged,186
+287,0,0,0.1061,10.61,Low Risk,6400,0.65,Low Priority,Auto Process,Legitimate,Not Flagged,187
+614,0,0,0.1382,13.82,Low Risk,4900,0.64,Low Priority,Auto Process,Legitimate,Not Flagged,188
+925,0,0,0.1659,16.59,Low Risk,3870,0.6,Low Priority,Auto Process,Legitimate,Not Flagged,189
+698,0,0,0.1447,14.47,Low Risk,4320,0.59,Low Priority,Auto Process,Legitimate,Not Flagged,190
+260,0,0,0.1144,11.44,Low Risk,3850,0.41,Low Priority,Auto Process,Legitimate,Not Flagged,191
+681,0,0,0.1576,15.76,Low Risk,2640,0.39,Low Priority,Auto Process,Legitimate,Not Flagged,192
+527,0,0,0.0969,9.69,Low Risk,2700,0.24,Low Priority,Auto Process,Legitimate,Not Flagged,193
+775,0,0,0.1936,19.36,Low Risk,100,0.0,Low Priority,Auto Process,Legitimate,Not Flagged,194
